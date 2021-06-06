@@ -1,0 +1,148 @@
+a{
+  color: #11999E;
+  text-decoration: none;
+  margin:0 20px;
+}
+a:hover {
+  color:#EAF6F6;
+
+}
+
+
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+color: #40514E;
+
+  }
+
+  h1{
+    color:#66BFBF;
+    margin: 50px auto 0 auto;
+    font-family: 'sacramento', cursive;
+    font-size: 5.625rem;
+    line-height: 2;
+  }
+  h2{
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight:800;
+  }
+h3{
+
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: bolder;
+}
+hr{
+  border:dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin:100px auto;
+
+}
+p{
+  line-height: 2;
+}
+/*---button-----------*/
+.button {
+  font-family:'Merriweather', serif;
+  color: #FFFFFF;
+  font-size: 20px;
+  text-shadow: 1px 1px 0 #FCFCFC;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 10px 25px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  background: #32E1EE;
+
+
+
+
+}
+.button:hover {
+  color: #FFFFFF;
+  background: #0AF7FF;
+
+}
+
+  /*--------- class selectors---------------*/
+.bottom-cloud{
+  position:absolute;
+left:250px;
+top: 400px;
+}
+.bot{
+   
+   border-radius: 20px;
+   color: #24C6C3;
+   font-family: Arial;
+   font-size: 54px;
+   font-weight: 200;
+   padding: 40px;
+   display: inline-block;
+   cursor: pointer;
+   margin: 50PX;
+
+}
+
+.code-image{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+
+
+.chillies-image{
+  width:25%;
+  float:right;
+  margin-left: 30px;
+}
+.copyright{
+  color:#EAF6F6;
+
+}
+.contact-me-description{
+  margin-top: 30px;
+  margin-bottom: 80px;
+}
+.contact-me{
+  width: 30%;
+  margin:50px auto 60px;
+}
+.intro{
+  width:30%;
+  margin:auto;
+}
+.top-cloud{
+  position:absolute;
+top: 40px;
+  right: 300px;
+}
+
+.pulkit-image{
+  width: 300px;
+  height: 300px;
+}
+.skill-row{
+
+  width: 50%;
+  margin:100px auto;
+  text-align:left;
+
+}
+.top-container{
+  background-color: #E4F9F5;
+  position:relative;
+  padding-top:100px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+      padding: 50px;
+}
+.middle-container{
+  margin: 100px 0;
+}
